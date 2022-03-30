@@ -10,27 +10,27 @@ Client asked for an analysis of school performance by examining standardized tes
 
 - How is the district summary affected?
   
-  notes
+  All grade percentage metrics were slightly decreased due to the removal of the 9th grade Thomas High School scores.
   
-  Before
+  **Before:**
   
-  ![district_summary_before.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/district_summary_before.png)
+  <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/district_summary_before.png" width="1000" />
+ 
+  **After:**
   
-  After
-  
-  ![district_summary_after.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/district_summary_after.png)
+  <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/district_summary_after.png" width="1000" />
   
 - How is the school summary affected?
   
-  notes
+  All grade percentage metrics were slightly decreased due to the removal of the 9th grade Thomas High School scores. The other schools were uneffected.
   
-  Before
+  **Before:**
   
-  ![school_summary_before.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/school_summary_before.png)
+  <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/school_summary_before.png" width="1000" />
+ 
+  **After:**
   
-  After
-  
-  ![school_summary_after.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/school_summary_after.png)
+  <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/school_summary_after.png" width="1000" />
   
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
@@ -43,42 +43,41 @@ Client asked for an analysis of school performance by examining standardized tes
   
   - Scores by school spending
       
-    notes
+    Any changes in these metrics were small enough that they rounded to the same number.
   
-    Before
+    **Before:**
   
-    ![budget_score_before.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/budget_score_before.png)
+    <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/budget_score_before.png" width="1000" />
+ 
+    **After:**
   
-    After
-  
-    ![budget_score_after.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/budget_score_after.png)
+    <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/budget_score_after.png" width="1000" />
   
   - Scores by school size
       
-    notes
+    Any changes in these metrics were small enough that they rounded to the same number.
   
-    Before
+    **Before:**
   
-    ![size_score_before.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/size_score_before.png)
+    <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/size_score_before.png" width="1000" />
+ 
+    **After:**
   
-    After
-  
-    ![size_score_after.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/size_score_after.png)
+    <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/size_score_after.png" width="1000" />
   
   - Scores by school type
       
-    notes
+    Any changes in these metrics were small enough that they rounded to the same number.
   
-    Before
+    **Before:**
   
-    ![type_score_before.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/type_score_before.png)
+    <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/type_score_before.png" width="1000" />
+ 
+    **After:**
   
-    After
-  
-    ![type_score_after.png](https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/type_score_after.png)
-  
+    <img src="https://github.com/justinkirk8/School_District_Analysis/blob/main/Resources/type_score_after.png" width="1000" />
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Overall, the removal of the 9th Grade Thomas High School had very little effect on the data. Slight decreases were observed in the overall metrics and the Thomas High School metrics; however, these decreases were not large enough to effect the graphs that examine the data by various classes. Slight decreases may have been observed in these graphs if the client had asked for higher significant figures in these particular area. 
 
 
